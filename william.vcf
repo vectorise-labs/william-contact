@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Idoine;William;;;
+FN:William Idoine
+ORG:Vectorise
+TITLE:Director & Co-Founder
+EMAIL;TYPE=INTERNET,pref:william.idoine@vectoriselabs.com
+item1.URL:https://linkedin.com/in/william-idoine
+item1.X-ABLabel:LinkedIn
+item2.URL:https://github.com/ILikeYourCode
+item2.X-ABLabel:GitHub
+item3.URL:https://vectoriselabs.com
+item3.X-ABLabel:Vectorise
+END:VCARD
